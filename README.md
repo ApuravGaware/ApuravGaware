@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/octo.gif"  />
+</div>
+
 
 <h1 align="left">
   Hey 👋 What's up?
