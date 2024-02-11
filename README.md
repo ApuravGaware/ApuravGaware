@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ###
 [![Linkedin Badge](https://img.shields.io/badge/-ApuravGaware-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apurav-gaware/)](https://www.linkedin.com/in/apurav-gaware/)
 [![Gmail Badge](https://img.shields.io/badge/-gawareapurav@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gawareapurav@gmail.com)](mailto:gawareapurav@gmail.com)
-[!(https://img.shields.io/youtube/channel/subscribers/https%3A%2F%2Fwww.youtube.com%2F%40apuravcodes)](https://www.youtube.com/@apuravcodes)
+[![](https://img.shields.io/youtube/channel/subscribers/https%3A%2F%2Fwww.youtube.com%2F%40apuravcodes)](https://www.youtube.com/@apuravcodes)
 <p align="left">I'm Apurav Gaware, an Artificial Intelligence & Data Science Engineer from India. I'm the founding Lead of the Google Developers Student Club at K.K. Wagh Institute of Engineering Education & Research, Nashik.</p>
 
 ## 🤠 About me
