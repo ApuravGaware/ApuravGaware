@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   Hey 👋 What's up?
 </h1> 
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 ###
 [![Linkedin Badge](https://img.shields.io/badge/-ApuravGaware-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/harshkumarkhatri/](https://www.linkedin.com/in/apurav-gaware/))]([[https://www.linkedin.com/in/harshkumarkhatri/](https://www.linkedin.com/in/apurav-gaware/)](https://www.linkedin.com/in/apurav-gaware/)) 
 [![Gmail Badge](https://img.shields.io/badge/-gawareapurav@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gawareapurav@gmail.com)](mailto:gawareapurav@gmail.com)
