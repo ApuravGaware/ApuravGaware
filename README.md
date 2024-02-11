@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </h1> 
 
 ###
-[![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/harshkumarkhatri/](https://www.linkedin.com/in/apurav-gaware/))]([[https://www.linkedin.com/in/harshkumarkhatri/](https://www.linkedin.com/in/apurav-gaware/)](https://www.linkedin.com/in/apurav-gaware/))
+[![Linkedin Badge](https://img.shields.io/badge/-ApuravGaware-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/harshkumarkhatri/](https://www.linkedin.com/in/apurav-gaware/))]([[https://www.linkedin.com/in/harshkumarkhatri/](https://www.linkedin.com/in/apurav-gaware/)](https://www.linkedin.com/in/apurav-gaware/))
 <p align="left">I'm Apurav Gaware, an Artificial Intelligence & Data Science Engineer from India. I'm the founding Lead of the Google Developers Student Club at K.K. Wagh Institute of Engineering Education & Research, Nashik.</p>
 
 ###
