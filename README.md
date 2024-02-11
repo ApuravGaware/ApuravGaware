@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   👯 I’m looking to collaborate on Developing new and intriguing open-source projects, with the community, for the community<br>
   🚀 I’m currently exploring ML, Gen AI, LLMs, etc.<br>
   💬 Ask me about anything tech-related, I am happy to help;<br>
-  📫 Feel free to ping me on LinkedIn<br>
+  📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/apurav-gaware/)<br>
   😄 Pronouns: He/Him<br>
   ⚡ Fun fact: 
 </h4>
