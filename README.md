@@ -38,11 +38,10 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">
-  My Absolute Favorites:<br>
-  •	💻 I love exploring new technologies and building cool stuff.<br>
-  •	📰 Reading & watching Tech Stuff whenever possible.<br>
-  •	🍕 Meetups, Tech Events & Hackathons.</h4>
+<h4 align="left">My Absolute Favorites:</h4>
+  •	💻 I love exploring new technologies and building cool stuff.
+  •	📰 Reading & watching Tech Stuff whenever possible.
+  •	🍕 Meetups, Tech Events & Hackathons.
 
 ###
 
