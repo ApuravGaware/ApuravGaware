@@ -26,13 +26,15 @@ Here are some ideas to get you started:
 <p align="left">I'm Apurav Gaware, an Artificial Intelligence & Data Science Engineer from India. I'm the founding Lead of the Google Developers Student Club at K.K. Wagh Institute of Engineering Education & Research, Nashik.</p>
 
 ## 🤠 About me
-  📚 I'm currently pursuing my Bachelor's in Artificial Intelligence & Data Science Engineering<br>
-  🔭 I’m currently working on Deep Learning projects<br>
-  👯 I’m looking to collaborate on Developing new and intriguing open-source projects, with the community, for the community<br>
-  🚀 I’m currently exploring ML, Gen AI, LLMs, etc.<br>
-  💬 Ask me about anything tech-related, I am happy to help;<br>
-  📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/apurav-gaware/)<br>
-  😄 Pronouns: He/Him<br>
+  📚 I'm currently pursuing my Bachelor's in Artificial Intelligence & Data Science Engineering
+  🔭 I’m currently working on Deep Learning projects
+  👯 I’m looking to collaborate on Developing new and intriguing open-source projects, with the community, for the community
+  🚀 I’m currently exploring ML, Gen AI, LLMs, etc.
+  💬 Ask me about anything tech-related, I am happy to help;
+  📫 Feel free to ping me on: 
+      - [LinkedIn](https://www.linkedin.com/in/apurav-gaware/)
+      - [Mail](mailto:gawareapurav@gmail.com)
+  😄 Pronouns: He/Him
   ⚡ Fun fact: 
 
 
