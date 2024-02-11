@@ -25,13 +25,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-gawareapurav@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gawareapurav@gmail.com)](mailto:gawareapurav@gmail.com)
 <p align="left">I'm Apurav Gaware, an Artificial Intelligence & Data Science Engineer from India. I'm the founding Lead of the Google Developers Student Club at K.K. Wagh Institute of Engineering Education & Research, Nashik.</p>
 
-###
-
-<h2 align="left">🤠 About me</h2>
-
-###
-
-<h4 align="left">
+## 🤠 About me
   📚 I'm currently pursuing my Bachelor's in Artificial Intelligence & Data Science Engineering<br>
   🔭 I’m currently working on Deep Learning projects<br>
   👯 I’m looking to collaborate on Developing new and intriguing open-source projects, with the community, for the community<br>
@@ -40,7 +34,7 @@ Here are some ideas to get you started:
   📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/apurav-gaware/)<br>
   😄 Pronouns: He/Him<br>
   ⚡ Fun fact: 
-</h4>
+
 
 ###
 
@@ -98,10 +92,10 @@ Here are some ideas to get you started:
 ###
 
 <h4 align="left">
-  •	Google Developers Student Clubs<br>
-  •	Microsoft Learn Student Ambassadors<br>
-  •	Google Developers Group (GDG) <br>
-  •	Tensorflow User Group (TFUG) <br>
+  •	Google Developers Student Clubs (GDSC Lead)<br>
+  •	Microsoft Learn Student Ambassador (MLSA)<br>
+  •	Google Developers Group (GDG)<br>
+  •	Tensorflow User Group (TFUG)<br>
   •	AWS User Group<br>
   •	Indian Society for Technical Education (ISTE)<br>
   •	Flutter Community
