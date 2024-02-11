@@ -31,16 +31,18 @@ Here are some ideas to get you started:
   👯 I’m looking to collaborate on Developing new and intriguing open-source projects, with the community, for the community<br>
   🚀 I’m currently exploring ML, Gen AI, LLMs, etc.<br>
   💬 Ask me about anything tech-related, I am happy to help;<br>
-  📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/apurav-gaware/) [Mail](mailto:gawareapurav@gmail.com)<br>
+  📫 Feel free to ping me on:<br>
+      - [LinkedIn](https://www.linkedin.com/in/apurav-gaware/)<br> 
+      - [Mail](mailto:gawareapurav@gmail.com)<br>
   😄 Pronouns: He/Him<br>
   ⚡ Fun fact: 
 
 
-<h4 align="left">My Absolute Favorites:<br>
+<h4 align="left">My Absolute Favorites:</h4>
   •	💻   I love exploring new technologies and building cool stuff.<br>
   •	📰   Reading & watching Tech Stuff whenever possible.<br>
   •	🍕   Meetups, Tech Events & Hackathons.
-</h4>
+
 
 ###
 
