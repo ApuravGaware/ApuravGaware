@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ###
-[![Linkedin Badge](https://img.shields.io/badge/-ApuravGaware-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/harshkumarkhatri/](https://www.linkedin.com/in/apurav-gaware/))]([[https://www.linkedin.com/in/harshkumarkhatri/](https://www.linkedin.com/in/apurav-gaware/)](https://www.linkedin.com/in/apurav-gaware/)) 
+[![Linkedin Badge](https://img.shields.io/badge/-ApuravGaware-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apurav-gaware/)](https://www.linkedin.com/in/apurav-gaware/)
 [![Gmail Badge](https://img.shields.io/badge/-gawareapurav@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gawareapurav@gmail.com)](mailto:gawareapurav@gmail.com)
 <p align="left">I'm Apurav Gaware, an Artificial Intelligence & Data Science Engineer from India. I'm the founding Lead of the Google Developers Student Club at K.K. Wagh Institute of Engineering Education & Research, Nashik.</p>
 
